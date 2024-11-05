@@ -1,0 +1,1 @@
+img/Acessibilidade.svg
